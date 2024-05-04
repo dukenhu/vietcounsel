@@ -1,0 +1,25 @@
+# VietCounsel Sample User Profile
+
+Name: Hoàng Nguyễn
+Age: 17
+Gender: Male
+School: Hanoi - Amsterdam
+Specialization: English
+GPA: 9/10 or 3.8/4.0
+Location: Hanoi
+
+Recorded information based on prior responses:
+- Priorities: 
+	- Different factor prioritization: Most important factor is Scholarships. Second most important factor is Tuition fees. Other factors are not as important.
+	- Different information source prioritization: Most imporant source of information is Friends. Second most important source is Parent. Other sources are not consequential.
+- Narrative Counseling:
+	- If you could choose only three subjects to study, which would they be? Why?
+		I like Math, Physics and Computer Science because I like scientific concepts and logical reasoning. 
+	- Do you prefer crowds or being alone more? 
+		I prefer being alone
+	- Are you shy when going out and meeting a lot of strangers? Do you enjoy making new friends?
+		Hmm, I don't think I am shy when meeting new people. I do like making new friends, even if I like being alone. 
+	- What is your dream? What do you want to do after you have a stable job in the future?
+		I do not know. I want to work in IT because my friends said IT jobs make a lot of money. I only want to make money to help my parents because we are not wealthy.
+
+# End of Configuration
