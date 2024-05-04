@@ -1,0 +1,70 @@
+# Narrative Counseling Corpus
+
+## Counseling Questions
+### Questions about Hobbbies
+	1. Of the subjects you are currently studying, which one do you like the most? Why?
+	2. Among the assignments you've been given so far that you can remember, which one did you find most interesting to do? Why?
+	3. If you could choose only three subjects to study, which would they be? Why?
+	4. What do you like to do most in your free time?
+	5. When you're stressed about schoolwork, what do you usually do?
+	6. When you're tired from family pressures, life, or conflicts in friendships, what do you do?
+	7. When you were younger, what did you enjoy doing?
+	8. What hobbies do you no longer have as you grew up? When did you lose them? Why did you lose them?
+	9. For friends and family's birthdays, what gifts do you usually give? Do you ever make gifts yourself to give to them?
+	10. What artistic activities do you like? (For example, singing, dancing, hip-hop, drawing, sculpting, etc.)
+	11. What sports activities do you enjoy? (For example, volleyball, soccer, badminton, etc.)
+	12. Can you recall any moments when you were the happiest doing something? Can you describe them?
+### Questions about Abilities
+	1. What areas do you think you are capable in?
+	2. What activities do you feel most confident participating in?
+	3. What do friends and family often compliment you on?
+	4. What subjects are you good or excellent in at school?
+	5. What activities are you good or excellent in outside of class?
+	6. Of all the assignments you've done, which type do you find the easiest?
+	7. Do you think you are better at listening or at presenting?
+	8. Do friends usually come to you when they are sad or when they want to go out?
+	9. Are you often invited to parties and fun events?
+	10. Do your friends often confide in you and ask for advice?
+	11. Do you participate in extracurricular activities? If so, what are they?
+	12. Besides studying, what do you usually do in your free time?
+	13. Do you have any special dreams?
+### Questions about Personality
+	1. Do you prefer crowds or being alone more?
+	2. Are you shy when going out and meeting a lot of strangers? Do you enjoy making new friends?
+	3. Do you prefer attending parties with many people or just with a small group of close friends?
+	4. Do you usually view things from an overall perspective or pay more attention to details?
+	5. Do your friends compliment you on your ability to notice the little things?
+	6. When doing assignments, do you often double-check your work and rarely make minor mistakes?
+	7. Do you think you are more liberal or cautious?
+	8. Do you prefer to reason things out to understand them or rely more on emotions?
+	9. Do your friends describe you as being cold?
+	10. When making decisions, do you tend to use emotion or reason?
+	11. Do you consider yourself to be organized and punctual?
+	12. Do your parents ever complain about your messiness and forgetfulness?
+	13. What leadership roles do you hold in class (if any)?
+### Questions about Values
+	1. What is the most important thing in life to you?
+	2. What is your dream? What do you want to do after you have a stable job in the future?
+	3. Do you know why you were born into this life?
+	4. What virtue do you think is the most important to you?
+	5. What qualities do you hope for in a close friend?
+	6. What qualities do you hope for in a partner?
+	7. In your opinion, what does a happy life look like?
+	8. In your opinion, what is an ideal job?
+	9. In your life, whom do you respect the most and why?
+	10. Of all the people you have met so far, whom do you love the most and why?
+
+## Sample Conversation
+### Chatbot: Em tên gì, sao em biết trung tâm tư vấn mà đến?
+### User: Dạ em tên là Phát. Em là HS mới thi ĐH vừa rồi, em sinh năm 1990. Em đã tra trên mạng và có thấy tên của Trung tâm tư vấn. Hôm nay, em lên TPHCM nên hẹn vào xin được tư vấn luôn vì nhà em ở tận Đồng Nai.
+### Chatbot: Em thi ĐH vừa rồi kết quả ra sao và em cần tư vấn về vấn đề gì?
+### User: Dạ em rất thích ngành KT vì em nghĩ là sẽ xin việc dễ dàng khi ra trường và gia đình em cũng chuyên về KT. Em chỉ chú tâm học các môn của khối A: Toán, Lí, Hóa và em đã đăng ký thi vào trường ĐH Sư phạm Kĩ thuật TPHCM, ngành Kĩ thuật Chế tạo máy. Em đã so sánh và thấy điểm các năm của ngành này tại trường ĐH Sư phạm kĩ thuật TPHCM chỉ vào khoảng 14 hay 15 điểm là đậu thôi, nên em thấy vừa sức mình. Đợt thi thứ hai em không biết chọn trường nào nữa. Em rất sợ môn Sinh nên em chỉ có thể thi khối C hoặc D mà thôi. Khối C thì em ít quan tâm học môn Sử, Địa. Vì thế, em chọn thi khối D mặc dù điểm Anh văn của em chỉ đạt trung bình, môn Văn thì cũng vậy nhưng vì có môn Toán nên em nghĩ sẽ vớt vát được chút đỉnh. Em chọn trường đại học Quốc tế của ĐHQG, ngành Quản trị Kinh doanh. Đợt thi thứ ba, em chọn trường CĐ Lí Tự Trọng TPHCM cũng ngành Kĩ thuật Chế tạo máy.
+Kết quả thi ĐH làm em buồn quá. Khối A em chỉ được 11.5 điểm, khối D em được 14,5 điểm (em làm Văn có một tờ thôi mà không biết sao lại được 5 điểm, Toán thì do thi đợt 2 bình tĩnh hơn nên em đạt 6 điểm, Anh văn em chỉ được 3,5 điểm). Đợt 3 em được 17 điểm. Với điểm thi khối A như vậy, em chỉ đỗ vào CĐ. Khối D thì em được trường ĐH Quốc tế của ĐH Quốc gia thông báo cho đăng ký NV1b để học các ngành liên kết với ĐH Mỹ, Anh hoặc New Zealand. Đợt 3 chắc chắn em đậu CĐ Lí Tự Trọng TPHCM.
+Hiện giờ em phân vân quá. Nếu theo học trường ĐH Quốc tế của ĐH Quốc gia thì em sẽ đóng học phí 2 năm đầu là 200 triệu, 2 năm liên kết ít nhất là 600 triệu, cộng với lệ phí học hơn 200 triệu nữa, tổng cộng là hơn 1 tỷ đồng. Gia đình mà lo sẽ đuối sức. Em lại yếu Anh văn. Vì vậy, nếu theo học em sẽ mất thêm một năm để học Anh văn nữa. Em nghĩ, đã đậu đại học thì phải học đại học chứ ai đi học CĐ, uổng lắm! Xin cho em lời khuyên.
+### Chatbot: Em cần phải xác định lại sở thích và khả năng của mình khi chọn nghề nghiệp vì em sẽ phải gắn bó suốt đời với nghề mình chọn. Theo như em nói, là em thích ngành kĩ thuật và gia đình cũng có truyền thống về nghề này nên em đã chọn ngành Kĩ thuật Chế tạo máy. Khối D thì em chỉ thi cho có vì em không có năng khiếu Anh văn. Kết quả thi ĐH đã không như mong muốn. Vì vậy, em nên cân nhắc để so sánh và chọn lựa:
+Thứ nhất, nếu do kết quả thi khối D của em như vậy mà gia đình chuyển hướng để em theo học quản trị kinh doanh thì em phải nghĩ xem: liệu gia đình có đủ tiền cho em đóng học phí trong 4 năm đó không? Liệu vốn tiếng Anh của em như vậy thì em có học nổi không vì giáo viên giảng dạy hoàn toàn bằng tiếng Anh. Nếu phải học một năm tiếng Anh nữa thì em phải mất thêm học phí khá nhiều. Nếu không học chương trình liên kết thì em có thể sử dụng phiếu điểm để xét tuyển các trường có chỉ tiêu NV2 mà điểm của em thỏa mãn. Lúc đó em có thể chọn các ngành như Tiếng Anh, Đông phương học, Du lịch… các ngành thuộc khối D rất cần giỏi Anh văn.
+Thứ hai , em hãy xóa bỏ mặc cảm học CĐ. Học hệ CĐ tại CĐ Lí Tự Trọng TPHCM hay CĐ của ĐH Sư phạm kĩ thuật TPHCM đều rất tốt vì em sẽ được học ngành nghề đúng sở thích và năng khiếu của mình. Sau 2,5 năm, tốt nghiệp CĐ, em có thể đi làm hoặc học tiếp lên ĐH theo hệ liên thông. Như vậy, cuối cùng em vẫn có được bằng cấp Kĩ sư cơ khí như em mong muốn. Đi bằng con đường này thì em sẽ không tốn tiền như đi con đường học liên kết. Vì vậy, em hãy làm công tác tư tưởng trong gia đình đi nhé. Đi theo con đường tắt hay đường vòng đều được, miễn là em đạt mục đích như mong muốn là tốt rồi.
+### User: Dạ, em cám ơn rất nhiều. Chắc là em sẽ học CĐ và học liên thông lên đại học thôi vì đây là giải pháp tốt nhất, thích hợp nhất với trình độ, khả năng, sở thích cũng như hoàn cảnh của gia đình em. 
+
+
+# End of Knowledge Corpus

@@ -1,0 +1,38 @@
+# Priorities Knowledge Corpus
+
+## Factors: List of factors that Vietnamses students consider when making decisions about studying abroad, in order of most to least important.
+	### Job prospects after graduation
+	### Quality of teaching
+	### Tuition fees and stipend
+	### Expertise of teaching staff
+	### Actual course content
+	### Scholarship opportunities
+	### University's connections with industry
+	### Entrance requirements
+	### Immigration opportunities
+	### Degree reputation
+	### Availability and broad range of courses
+	### Student life at the university
+	### University reputation
+	### Opportunities for internships during study
+	### Location
+	### Difficulty of course
+	### Facilities at the university
+	### Application/Admission process
+	### University ranking
+	### University public image
+	### Type of university (private/public, old/new)
+
+
+## Sources: List of information sources that influence Vietnamese students' decision-making about studying abroad, in order of most to least important
+	### Parent
+	### University websites
+	### Open days or visits
+	### Social media, reviews, discussions, comments
+	### Teachers and school advisors
+	### Brochures and advertising
+	### Promotional visits to high schools
+	### Siblings or relatives
+	### Friends
+
+# End of Knowledge Corpus

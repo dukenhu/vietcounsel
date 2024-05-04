@@ -1,0 +1,63 @@
+# ISCA GPID Knowledge Corpus
+
+## Standard A: Students will demonstrate the dispositions, knowledge, and skills needed in order to be culturally competent global citizens
+### Competency A1~ Cultural Knowledge and Awareness
+#### GP:A1:1 Explain the various definitions of “home,” which can include countries, cultures, or places
+#### GP:A1:2 Differentiate between surface culture and deep culture
+#### GP:A1:3 Explore how cultural traditions impact one’s identity
+#### GP:A1:4 Examine the various conceptual constructs of culture
+#### GP:A1:5 Examine the ways in which cultural values and beliefs may conflict
+#### GP:A1:6 Explain the ways in which values and beliefs may motivate behavior
+#### GP:A1:7 Examine the impact that cultural values may have on the privilege or marginalization of groups
+#### GP:A1:8 Examine prejudices and biases
+#### GP:A1:9 Engage in local cultures and languages where one lives
+### Competency A2 ~ Cultural Competency
+#### GP:A2:1 Describe personal values and beliefs
+#### GP:A2:2 Identify shared values between self and others
+#### GP:A2:3 Articulate one’s own positionality within the given context to better understand a situation
+#### GP:A2:4 Engage in perspective-taking to consider multiple interpretations of situations
+#### GP:A2:5 Distinguish between intent and impact with relation to behaviors and communication
+#### GP:A2:6 Accept feedback as a means to personal growth with regards to understanding other perspectives
+
+## Standard B: Students will examine the complexity of identity development and the impact identity has on relationships with others
+### Competency B1 ~ Identity Development
+#### GP:B1:1 Explain how identities develop
+#### GP:B1:2 Examine the multiple elements that make up identity and how these are influenced by cultural contexts
+#### GP:B1:3 Analyze the complexity of a person’s identity in relation to the concept of intersectionality
+#### GP:B1:4 Articulate one’s own unique history and experiences
+#### GP:B1:5 Identify one’s own positionality with regards to various identity markers
+#### GP:B1:6 Reflect on one’s own experiences with privilege and marginalization
+#### GP:B1:7 Reflect on how one’s own identity interacts with others to impact personal relationships and life experiences
+### Competency B2 ~ Cultural Identity
+#### GP:B2:1 Examine family as a social construct
+#### GP:B2:2 Analyze the impact of family on cultural identity
+#### GP:B2:3 Examine cultural identity of own family and the impact this has on identity development
+#### GP:B2:4 Define what it means to belong
+#### GP:B2:5 Define “cross-cultural kid,” “third culture kid,” and “global nomad”
+#### GP:B2:6 Compare and contrast one’s own cultural identity to the cultural identity of others
+#### GP:B2:7 Use awareness of self to effectively navigate settings with diverse individuals and groups
+
+## Standard C: Students will advocate for a world where all identities are affirmed and validated
+### Competency C1 ~ Advocacy and equity
+#### GP:C1:1 Explore perspectives of others, particularly those of historically unrepresented groups
+#### GP:C1:2 Advocate for the rights of others
+#### GP:C1:3 Take responsibility to learn about inequity in your community
+#### GP:C1:4 Advocate for greater equity in your community
+
+## Standard D: Students will demonstrate the dispositions, knowledge, and skills to manage transition effectively
+### Competency D1 ~ Transitions
+#### GP:D1:1 Identify various types of transitions that occur throughout a lifespan
+#### GP:D1:2 Recognize the personal nature of the transition experience
+#### GP:D1:3 Demonstrate awareness of cultural adjustment
+#### GP:D1:4 Articulate a model of transition and apply it to one’s own experience
+#### GP:D1:5 Develop strategies to care for self and others during times of transition
+### Competency D2 ~ Adaptability
+#### GP:D2:1 Use knowledge of the transition process to enhance communication, inform decisions, and build relationships with others
+#### GP:D2:2 Establish positive routines and structures to support healthy transitions
+#### GP:D2:3 Explore the complex feelings and emotions associated with transition
+#### GP:D2:4 Explain the importance of time needed to adapt to major transitions
+#### GP:D2:5 Develop strategies to care for self and others during times of transition
+#### GP:D2:6 Manage the potential stress and loss associated with transition events
+#### GP:D2:7 Establish strategies to stay connected with others during and after transition
+
+# End of Knowledge Corpus
