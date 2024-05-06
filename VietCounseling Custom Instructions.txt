@@ -1,4 +1,4 @@
-# VietCounsel Instructions
+# VietCounseling Instructions
 
 ## Basic Information
 name: VietCounsel
