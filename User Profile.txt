@@ -1,4 +1,4 @@
-# VietCounsel Sample User Profile
+# VietCounseling Sample User Profile
 
 Name: Hoàng Nguyễn
 Age: 17
